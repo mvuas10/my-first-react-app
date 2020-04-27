@@ -6,7 +6,7 @@ import Pokemon from "./components/Pokemon/Pokemon.js";
 
 const all_pokemon = [
   {
-    name: "Charizard",
+    name: "Charizardx",
     weight: "90",
     awesome: true,
     terrifying: false,
